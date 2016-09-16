@@ -2,9 +2,9 @@
 
 > Je m’appelle Laetitia. Il y a 13 ans, mon fils est né à 5 mois et demi de grossesse et n’a pas survécu. Il m’a fallu 6 années pour apprendre à vivre avec, pour arrêter de nier ma souffrance et prendre soin de mon deuil.  Après avoir publié un livre , écrit un blog et créé un groupe de parole , je suis toujours aussi choquée par l’état d’isolement dans lequel se trouvent les parents. Je tente par ce site de créer un lieu où les émotions peuvent s’exprimer librement, un lieu pour exister. Pour aller plus loin [mon blog](https://linstinctdevivre.com/)
 
-## Nous crash-testons le Produit Minimal Viable suivant
+## Un test 0.1 en cours
 
-Sur http://cannaa.github.io, nous expérimentons des pistes de solutions pour des mamans vivant un deuil périnatal (de 5 mois de grossesse à 1 mois après la naissance) et qui développent une peur réccurente de la réaction des autres - ce qui les isole rapidement. 
+Sur http://cannaa.github.io, nous expérimentons une piste de solutions pour des mamans vivant un deuil périnatal (de 5 mois de grossesse à 1 mois après la naissance) et qui développent une peur réccurente de la réaction des autres - ce qui les isole rapidement. 
 
 Je le sais car j'en ai interviewé beaucoup, par téléphone, Skype, Facetime, groupe de parole, messenger, emails... Avec des profils différents que ce soit par rapport à la spécificité de leur deuil (suite à une interruption médicale de grossesse, mort à la naissance, premier enfant ou non, suite à un long parcours en PMA ou pas ... en couple hétérosexuel ou non...). 
 
