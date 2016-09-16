@@ -4,7 +4,7 @@
 
 ## Un test 0.1 en cours
 
-Sur http://cannaa.github.io, nous expérimentons une piste de solutions pour des mamans vivant un deuil périnatal (de 5 mois de grossesse à 1 mois après la naissance) et qui développent une peur réccurente de la réaction des autres - ce qui les isole rapidement. 
+Sur http://cannaa.github.io, nous expérimentons une piste de solutions pour des mamans vivant un deuil périnatal (de 3 mois de grossesse à 1 mois après la naissance) et qui développent une peur réccurente de la réaction des autres - ce qui les isole rapidement. 
 
 Je le sais car j'en ai interviewé beaucoup, par téléphone, Skype, Facetime, groupe de parole, messenger, emails... Avec des profils différents que ce soit par rapport à la spécificité de leur deuil (suite à une interruption médicale de grossesse, mort à la naissance, premier enfant ou non, suite à un long parcours en PMA ou pas ... en couple hétérosexuel ou non...). 
 
