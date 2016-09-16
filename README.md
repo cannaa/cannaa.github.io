@@ -19,14 +19,16 @@ Je suis parti sur les solutions techniques suivantes:
 J'ai vérifié que: 
 * des mamans "résilites" sont prêtes à échanger - et ont besoin de témoigner
 
-Je débute le test 0.1, visible sur le site https://cannaa.github.io, en invitant à 3 mamans à se présenter et se rendre disponibles pour être contactées et échanger avec des mamans isolées. 
+Je débute le test 0.1, visible sur le site https://cannaa.github.io:
+* en invitant 3 mamans "résilites" à se présenter et se rendre disponibles pour être contactées et échanger avec des mamans isolées.
+* en invitant 10 mamans en situation d'isolement à consulter le site
 
 J'évalue ce test 0.1 sur les critères suivants:
 * soulagement: sentiment de solitude et d'isolement
- * utilisation du site
+ * après utilisation du site 
  * après échange avec les mamans
 
-Je compte vérifier ces critères en appelant le public cible (mamans en situation de deuil). Tous les parents qui participent à l'experimentation seront rappelés personnellement pour connaître leur expérience et leur retour au plus près de leurs besoins, 1 mois après le début de l'expérimentation.
+Je compte vérifier ces critères en appelant le public cible (mamans en situation de deuil), voire tenter de découvrir des nouveaux critères. Tous les parents qui participent à l'experimentation seront rappelés personnellement pour connaître leur expérience et leur retour au plus près de leurs besoins, 1 mois après le début de l'expérimentation.
 
 Je vais aussi joindre le public cible 2 (mamans ayant surmonté l'épreuve) pour vérifier que tout va bien sur la base des critères suivants:
 
